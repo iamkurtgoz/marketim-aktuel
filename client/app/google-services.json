@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "372801824333",
+    "firebase_url": "https://marketim-b1aeb.firebaseio.com",
+    "project_id": "marketim-b1aeb",
+    "storage_bucket": "marketim-b1aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372801824333:android:2dd583ea9c7ec095",
+        "android_client_info": {
+          "package_name": "com.app.marketimaktuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372801824333-pr09iic4n054js8lmv9tocemqqeaahi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMPqJyj3kbQUrezZlNCKcV9GDNDOVzu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-6675857880703647~6083361079"
+    }
+  ],
+  "configuration_version": "1"
+}

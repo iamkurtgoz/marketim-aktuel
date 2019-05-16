@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_app_id">827652780912146</string>
+    <string name="app_name">Marketim - Aktüel Ürünler</string>
+    <string name="app_version">Version 2.5</string>
+    <string name="copyright">Ömer Faruk Nazlı tarafından geliştirildi. </string>
+
+    <!--AdMob-->
+    <string name="admob_publisher_id">pub-6675857880703647</string>
+    <string name="admob_app_id">ca-app-pub-6675857880703647~6083361079</string>
+    <string name="admob_banner_unit_id">ca-app-pub-6675857880703647/6055440912</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-6675857880703647/2233468174</string>
+
+    <!-- youtube -->
+    <string name="youtube_api_key">AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY</string>
+    <string name="error_player">YouTube Oynatıcısını başlatırken bir hata oluştu (%1$s)</string>
+
+    <!-- play store application link i.e more apps -->
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Ömer+Faruk+Nazlı</string>
+    <string name="privacy_policy_url">http://omerfaruknz.xyz/gizlilik/privacy_policy.html</string>
+
+    <!--share-->
+    <string name="share_content">Bunu seninle paylaşmak istiyorum. PlayStore\'dan Bu Uygulamayı İndirebilirsiniz</string>
+
+    <!--favorite-->
+    <string name="whops">Hay Aksi!</string>
+    <string name="favorite_added">Favorilere Eklendi</string>
+    <string name="favorite_removed">Favorilerden Kaldırıldı</string>
+    <string name="no_favorite_found">En sevdiğin liste boş çünkü en sevdiğin menüye hiç katalog eklememişsin.</string>
+
+    <!--comments-->
+    <string name="title_comments">Yorumlar</string>
+    <string name="title_update_comment">Yorumlar</string>
+    <string name="title_send_comment">Yorum gönder</string>
+    <string name="txt_no_comment">İlk yorumu yapmak ister misin?&#8230;</string>
+    <string name="msg_no_comment">Hiç yorum yapılmamış, düşüncelerini yazmak ister misin?</string>
+    <string name="comment_hint">Yorum yaz&#8230;</string>
+    <string name="confirm_send_comment">Yorumu gönder?</string>
+    <string name="confirm_update_comment">Yorumu güncelle?</string>
+    <string name="confirm_delete_comment">Yorumu silmek istediğine emin misin?</string>
+    <string name="sending_comment">Yorum gönderiliyor&#8230;</string>
+    <string name="updating_comment">Yorum güncelleniyor&#8230;</string>
+    <string name="msg_comment_success">Yorum başarıyla gönderildi</string>
+    <string name="msg_comment_failed">Yorum gönderilemedi!</string>
+    <string name="msg_comment_update">Yorum başarıyla güncellendi</string>
+    <string name="msg_update_comment_failed">Yorum güncellenemedi!</string>
+    <string name="msg_comment_approval">Teşekkürler, yorumlarınız yakında gözden geçirilecek ve onaylandıktan hemen sonra gösterilecektir.</string>
+    <string name="msg_write_comment">Lütfen önce mesajınızı yazınız&#8230;</string>
+    <string name="msg_write_comment_character">Mesajınız en az 6 karakter olmalı&#8230;</string>
+    <string name="txt_read">Oku</string>
+    <string name="txt_comment">Yorum</string>
+    <string name="txt_comments">Yorumlar</string>
+    <string name="txt_you">sen</string>
+
+    <!--register-->
+    <string name="register_title">Kayıt için teşekkürler</string>
+    <string name="register_success">Başarıyla kayıt oldun&#8230;</string>
+    <string name="register_process">Kayıt işlemi gerçekleştiriliyor&#8230;</string>
+    <string name="register_exist">Email adresiniz daha önce kullanılmış!</string>
+    <string name="terms_text">Bir hesap oluşturarak gizlilik politikamızı kabul etmiş olursunuz</string>
+    <string name="terms_n_privacy">Gizlilik &amp; Politikalar</string>
+    <string name="title_please_wait">Lütfen Bekleyin&#8230;</string>
+    <string name="already_have_account">Zaten bir hesabın var mı?</string>
+
+    <!--login-->
+    <string name="login_title">Teşekkürler!</string>
+    <string name="login_process">Hesabınıza giriş yapılıyor&#8230;</string>
+    <string name="login_success">Giriş başarılı&#8230;</string>
+    <string name="login_failed">Geçersiz e-posta veya şifre!</string>
+    <string name="login_disabled">Hesap devre dışı bırakıldı, hesabınızı etkinleştirmek için lütfen geliştiriciye başvurun</string>
+    <string name="login_required">Yorum yazmak için lütfen giriş yapınız.</string>
+    <string name="do_not_have_account">Hesabınız yok mu?</string>
+    <string name="register_now">Şimdi kayıt ol</string>
+
+    <!--logout-->
+    <string name="logout_title">Çıkış</string>
+    <string name="logout_message">Çıkış yapmak istediğine emin misin?</string>
+    <string name="logout_process">Çıkış yapılıyor&#8230;</string>
+    <string name="logout_success">Çıkış başarılı</string>
+
+    <!--forgot password-->
+    <string name="forgot_message">Kayıt sırasında kullanılan e-postayı girin.</string>
+    <string name="forgot_failed_message">Veritabanımızda e-posta adresin bulunamadı!</string>
+    <string name="forgot_success_message">Şifreniz postaya gönderildi!</string>
+    <string name="forgot_password">Şifreni mi unuttun?</string>
+
+    <!--permission-->
+    <string name="permission_msg">İzin Gerekir</string>
+    <string name="permission_upload">Bu uygulamanın, profil fotoğrafınızı yüklemek için erişim depolama alanına ihtiyacı var</string>
+    <string name="download_msg">İndiriliyor&#8230;</string>
+    <string name="download_success">Resim indirildi ve galeriye kaydedildi.</string>
+
+    <!-- toolbar and title-->
+    <string name="title_menu_profile">Profil</string>
+    <string name="title_menu_close">Kapat</string>
+    <string name="title_menu_save">Kaydet</string>
+    <string name="title_menu_send">Gönder</string>
+    <string name="title_menu_later">Favori</string>
+    <string name="title_menu_share">Paylaş</string>
+    <string name="title_menu_search">Ara&#8230;</string>
+    <string name="title_menu_browser">Tarayıcıda aç</string>
+    <string name="title_login">GİRİŞ YAP</string>
+    <string name="title_register">KAYIT OL</string>
+    <string name="title_forgot_password">ŞİFREMİ UNUTTUM</string>
+
+    <!--bottom navigation title-->
+    <string name="title_nav_home">Ana Sayfa</string>
+    <string name="title_nav_category">Mağazalar</string>
+    <string name="title_nav_video">Videolar</string>
+    <string name="title_nav_favorite">Favoriler</string>
+    <string name="title_nav_profile">Profil</string>
+
+    <!--about information-->
+    <string name="title_about_privacy">Gizlilik Politikası</string>
+    <string name="title_about_rate">Puan Ver</string>
+    <string name="title_about_more">Daha Fazla</string>
+    <string name="title_about_info">Hakkında</string>
+    <string name="sub_title_about_privacy">Uygulama Şartları &amp; Politikalar</string>
+    <string name="sub_title_about_rate">Uygulamaya puan ver</string>
+    <string name="sub_title_about_more">Diğer uygulamalarımız</string>
+
+    <!--network message-->
+    <string name="offline">İnternet Bağlantınız Yok</string>
+    <string name="msg_offline">Bir dahaki sefere çevrimiçi olduğunuzda, İnternet bağlantısı olmadan okuyabileceğiniz bazı haberleri sık kullanılanlara kaydetmeyi deneyin.</string>
+    <string name="msg_no_news">Hay Aksi! Şu anda hiçbir mağazada katalog bulunmuyor.</string>
+    <string name="msg_no_video">Hay Aksi! Şu anda hiçbir mağazada video bulunmuyor.</string>
+    <string name="msg_no_category">Hay Aksi! Mağaza bulunamadı!</string>
+    <string name="msg_no_news_found">Hay Aksi! İstediğin şeyi bulamadık! Aramaya devam etmek istiyorsanız, lütfen başka bir anahtar kelime girmeyi deneyin!</string>
+    <string name="msg_no_network">Hata! İnternetinizde bir sorun var veya sunucu şu anda kapalı, lütfen daha sonra tekrar deneyin.</string>
+    <string name="msg_search_input">Lütfen Arama Girişini Doldurunuz</string>
+    <string name="btn_retry">TEKRAR DENE</string>
+
+    <!--dialog choose option-->
+    <string name="dialog_success">Başarılı!</string>
+    <string name="dialog_yes">Evet</string>
+    <string name="dialog_no">Hayır</string>
+    <string name="dialog_ok">Tamam</string>
+    <string name="dialog_cancel">İptal</string>
+    <string name="dialog_read_more">Daha Fazla</string>
+    <string name="dialog_dismiss">Reddet</string>
+    <string name="dialog_settings">AYARLARA GİT</string>
+
+    <!--dialog close app-->
+    <string name="dialog_close_title">Teşekkür ederim</string>
+    <string name="dialog_close_msg">Uygulamamızı kullandığınız için teşekkür ederiz, önerilerinizi veya görüşlerinizi bize iletin</string>
+    <string name="dialog_option_quit">ÇIKIŞ</string>
+    <string name="dialog_option_rate_us">DEĞERLENDİR</string>
+    <string name="dialog_option_more">UYGULAMALARIMIZ</string>
+
+    <!--form-->
+    <string name="edt_name">İsim</string>
+    <string name="edt_email">Email</string>
+    <string name="edt_password">Şifre</string>
+
+    <!--button-->
+    <string name="btn_login">GİRİŞ YAP</string>
+    <string name="btn_register">KAYIT OL</string>
+    <string name="btn_send">GÖNDER</string>
+
+    <!--profile-->
+    <string name="txt_profile_edit">DÜZENLE</string>
+    <string name="txt_profile_welcome">Hoşgeldin!</string>
+    <string name="txt_profile_not_registered">Kayıtlı değil misin?</string>
+    <string name="txt_profile_register_now">Kayıt Ol</string>
+    <string name="txt_profile_login">GİRİŞ YAP</string>
+    <string name="txt_profile_logout">Çıkış Yap</string>
+    <string name="updating_profile">Profil Güncelleniyor</string>
+    <string name="waiting_message">Lütfen Bekleyin&#8230;</string>
+
+    <!--package validation-->
+    <string name="msg_validate">Maalesef, uygulama kimliğiniz veya paket adınız kayıtlı değil. \n\nLütfen yönetici panelinize giriş yapın ve uygulamayı kullanmaya devam etmek için yönetici panelindeki ayarlar menüsünde uygulama kimliğinizi veya paket adınızı kaydedin..</string>
+
+    <!--close message-->
+    <string name="press_again_to_exit">Uygulamadan çıkmak için tekrar basın</string>
+
+</resources>
